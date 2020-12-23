@@ -1,33 +1,15 @@
-astroid @ file:///C:/b/work
 atomicwrites==1.4.0
-attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
 certifi==2020.12.5
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-coverage @ file:///C:/ci/coverage_1605461725447/work
 feedparser==6.0.2
-flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 html2text==2020.1.16
-importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
 importlib-resources==3.3.0
-iniconfig @ file:///tmp/build/80754af9/iniconfig_1602780191262/work
-isort @ file:///tmp/build/80754af9/isort_1602603989581/work
-lazy-object-proxy @ file:///C:/b/work
 mccabe==0.6.1
-more-itertools @ file:///tmp/build/80754af9/more-itertools_1605111547926/work
-packaging @ file:///tmp/build/80754af9/packaging_1607971725249/work
 pluggy==0.12.0
-py @ file:///tmp/build/80754af9/py_1607971587848/work
 pycodestyle==2.6.0
 pyflakes==2.2.0
-pylint @ file:///C:/b/work
 pyparsing==2.4.7
 pytest==0.0.0
-pytest-cov @ file:///tmp/build/80754af9/pytest-cov_1605474527080/work
 realpython-reader==1.0.0
 sgmllib3k==1.0.0
-six @ file:///C:/ci/six_1605205404068/work
-toml @ file:///tmp/build/80754af9/toml_1592853716807/work
 typing==3.7.4.3
 wincertstore==0.2
-wrapt @ file:///C:/b/work
-zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
