@@ -14,9 +14,8 @@ jobs:
       - run:
           name: install dependencies
           command: |
-            conda create --name venv
-            conda venv activate
-            cd IV Practice\RealPython\calculatorv2\CalculatorLibrary
+            python3 -m venv venv
+            . venv/bin/activate
             pip install -r requirements.txt
       # Step 3: run linter and tests
       - run:
